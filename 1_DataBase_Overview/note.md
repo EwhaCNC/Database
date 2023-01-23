@@ -36,11 +36,14 @@
 - 정의 기능(DDL, Data Definition Language)
     - DB 구조 정의, 수정 가능
     - DB 저장 구조, 접근 방법, 데이터 형식 등 정의
+    - *CREATE, ALTER, DROP, TRUNCATE*
 - 조작 기능(DML, Data Manipulation Language)
     - 데이터 삽입, 삭제, 수정, 검색
+    - *SELECT, INSERT, UPDATE, DELETE*
 - 제어 기능(DCL, Data Control Language)
     - 데이터를 정확, 안전하게 유지
     - DB 무결성 유지, 시스템 장애로부터 복구, 병행 수행 제어 
+    - *GRANT, REVOKE, COMMIT, ROLLBACK*
 
 ## 5. 데이터베이스 사용자
 - 응용 프로그래머: 프로그래밍 언어를 사용해 응용 프로그램이나 인터페이스를 구현하는 사람
